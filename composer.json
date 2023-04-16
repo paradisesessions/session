@@ -1,6 +1,6 @@
 {
     "name": "paradisesessions/session",
-    "description": "",
+    "description": "Simple session management class of PHP.",
     "keywords": [
         "session",
         "php8",
